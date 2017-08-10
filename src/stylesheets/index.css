@@ -1,3 +1,7 @@
+ul{
+  list-style-type: none;
+}
+
 body {
   font-family: 'Raleway', sans-serif;
 }
@@ -6,6 +10,10 @@ img {
   height: 20rem;
   width: 70%;
   margin-top: 2rem;
+}
+
+.strike {
+  text-decoration: line-through; 
 }
 
 .box-div {
